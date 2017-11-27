@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Stanish jpstanish@gmail.com
 
 # THANKS
 
